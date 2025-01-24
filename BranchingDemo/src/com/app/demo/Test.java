@@ -10,7 +10,12 @@ public class Test {
   }
   
   public void m4() {
+  
+  }
 	  
+
+  public void m3(){
+    
   }
 
 }
