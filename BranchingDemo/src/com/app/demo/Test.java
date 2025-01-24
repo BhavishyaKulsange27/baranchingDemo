@@ -22,5 +22,9 @@ public class Test {
 	public void m5(){
 		
 	}
+	
+	public void m7() {
+		
+	}
 
 }
