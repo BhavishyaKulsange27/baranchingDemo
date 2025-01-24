@@ -17,13 +17,10 @@ public class Test {
   public void m3(){
     
   }
-<<<<<<< HEAD
   public void m6() {
   }
-=======
 	public void m5(){
 		
 	}
->>>>>>> branch 'main' of https://github.com/BhavishyaKulsange27/baranchingDemo.git
 
 }
