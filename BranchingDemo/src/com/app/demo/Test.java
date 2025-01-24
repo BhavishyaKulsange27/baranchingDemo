@@ -17,5 +17,8 @@ public class Test {
   public void m3(){
     
   }
+	public void m5(){
+		
+	}
 
 }
